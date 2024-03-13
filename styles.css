@@ -1,0 +1,42 @@
+button{
+    color: black;
+    border-radius: 15px;
+    font-weight: bold;
+    margin: auto;
+    padding: 10px;
+}
+
+#add{
+    background-color: lightgreen;
+}
+
+#convert{
+    background-color: lightskyblue;
+}
+
+section{
+    border-radius: 10px;
+    display: inline-block;
+    padding: 1rem 1rem;
+    width: 47%;
+    height: 90vh;
+    vertical-align: middle;
+    position: absolute;
+}
+.section-1{
+    border: 3px solid green;
+}
+
+.section-2{
+    border: 3px solid navy;
+    right: 5px;
+}
+
+input{
+    border-radius: 10px;
+    border: 2px solid green;
+    display: block;
+    padding: 5px 5px;
+    position: relative;
+    margin: 5px auto;
+}
